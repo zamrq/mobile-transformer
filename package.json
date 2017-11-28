@@ -8,13 +8,13 @@
     "ejs": "^2.5.7",
     "gulp-concat": "^2.6.1",
     "gulp-less": "^3.3.2",
+    "gulp-minify-ejs": "^1.0.3",
     "gulp-rename": "^1.2.2",
     "gulp-watch": "^4.3.11",
     "include-all": "^1.0.0",
     "rc": "1.0.1",
-    "sails": "~0.12.14",
-    "sails-disk": "~0.10.9",
-    "gulp-minify-ejs": "^1.0.3"
+    "sails": "^0.12.14",
+    "sails-disk": "~0.10.9"
   },
   "scripts": {
     "debug": "node debug app.js",
