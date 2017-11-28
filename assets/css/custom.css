@@ -1,0 +1,8 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+.logo {
+    max-height: 80%;
+}
+
+.footer-1 .logo {
+    max-height: none;
+}
